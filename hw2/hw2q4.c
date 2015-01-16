@@ -1,3 +1,14 @@
+/**Write a program BigInt(n) that displays an arbitrary positive integer n using big
+characters of size 7x7, as in the following example for BigInt(170):
+  @@   @@@@@@@  @@@@@
+ @@@        @@ @@   @@
+  @@       @@  @@   @@
+  @@      @@   @@   @@
+  @@     @@    @@   @@
+  @@    @@     @@   @@
+@@@@@@ @@       @@@@@
+**/
+
 #include <stdio.h>
 #include <string.h>
 
