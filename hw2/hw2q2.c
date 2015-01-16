@@ -1,3 +1,11 @@
+/**We know three points on a curve: (x1, y1), (x2, y2), (x3, y3) . You have to create a
+program that for any value x1 ≤ x ≤ x3 computes the corresponding value y assuming that
+the segment of curve can be approximated with the parabola y = ax2 + bx + c . Write a
+function that can be called as y(x1,y1,x2,y2,x3,y3,x) and a main program that
+reads x1,y1,x2,y2,x3,y3 and then displays y(x1,y1,x2,y2,x3,y3,x) in n=40
+points between x1 and x3.
+**/
+
 #include <stdio.h>
 #include <string.h>
 
