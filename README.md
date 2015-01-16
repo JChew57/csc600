@@ -1,2 +1,2 @@
 # csc600
-coding homework for csc600 during fall 2014
+Coding homework for csc600 Programming Languages during fall 2014.
