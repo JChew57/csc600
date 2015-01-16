@@ -1,3 +1,11 @@
+/**
+The array a(1..n) contains arbitrary integers. Write a function reduce(a,n) that reduces
+the array a(1..n) by eliminating from it all values that are equal to three largest different
+integers. For example, if a=(9,1,1,6,7,1,2,3,3,5,6,6,6,6,7,9) then three largest different
+integers are 6,7,9 and after reduction the reduced array will be a=(1,1,1,2,3,3,5), n=7. The
+solution should have time complexity O(n).
+**/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
