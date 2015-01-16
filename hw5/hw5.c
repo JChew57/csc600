@@ -1,3 +1,13 @@
+/**Write functions that perform the following
+operations:
+(a) Addition of polynomials
+(b) Multiplication of polynomials
+(c) Derivative(s) of polynomial
+(d) Integral of polynomial
+Write a main program that illustrates the work of your
+functions. Use a procedural language of your choice.
+**/
+
 #include <stdio.h>
 #include <stdlib.h> //memory allocation
 #include <string.h>
